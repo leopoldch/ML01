@@ -1,6 +1,6 @@
 # Machine Learning project 
 
-- The main objective of this project is to predict is someone will have a breast cancer or not based on significative variables.
+- The main objective of this project is to predict if someone will have a breast cancer or not based on significative variables.
 - Project realised for the Université de Technologie de Compiègne (Machine Learning Course)
 - You might see some errors in the github preview which aren't coming up in Anaconda, Google Colab or locally. 
 
